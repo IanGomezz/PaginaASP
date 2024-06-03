@@ -84,3 +84,9 @@ C:\Users\IVAN\source\repos\CursoMVC\CapaPresentacionAdmin\obj\Debug\CapaPresenta
 C:\Users\IVAN\source\repos\CursoMVC\CapaPresentacionAdmin\obj\Debug\CapaPresentacionAdmin.csproj.CopyComplete
 C:\Users\IVAN\source\repos\CursoMVC\CapaPresentacionAdmin\obj\Debug\CapaPresentacionAdmin.dll
 C:\Users\IVAN\source\repos\CursoMVC\CapaPresentacionAdmin\obj\Debug\CapaPresentacionAdmin.pdb
+C:\Users\IVAN\source\repos\CursoMVC\CapaPresentacionAdmin\bin\CapaEntidad.dll
+C:\Users\IVAN\source\repos\CursoMVC\CapaPresentacionAdmin\bin\CapaNegocio.dll
+C:\Users\IVAN\source\repos\CursoMVC\CapaPresentacionAdmin\bin\CapaDatos.dll
+C:\Users\IVAN\source\repos\CursoMVC\CapaPresentacionAdmin\bin\CapaEntidad.pdb
+C:\Users\IVAN\source\repos\CursoMVC\CapaPresentacionAdmin\bin\CapaNegocio.pdb
+C:\Users\IVAN\source\repos\CursoMVC\CapaPresentacionAdmin\bin\CapaDatos.pdb
